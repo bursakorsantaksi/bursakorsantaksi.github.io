@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bursakorsantaksi.github.io/sitemap.xml
